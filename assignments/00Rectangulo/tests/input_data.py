@@ -8,8 +8,8 @@
 input_values = [
     # Test case 1
     (
-        [""],
-        ["Hello World!"],
-        "Debe salir\nHello World!"
+        ["15","6"],
+        ["AREA DE UN RECTANGULO","=====================","Dame la base:","Dame la altura:","Perimetro=42","Area=90"],
+        "Revisa los requisitos del ejercicio, entrada por entrada, salida por salida"
     )
 ]

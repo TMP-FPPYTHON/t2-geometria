@@ -1,3 +1,5 @@
 # Ejercicios Básicos!
 
-- 00 Hello World
+- 00 Rectángulo
+- 01 Trapecio
+- 02 Triangulo

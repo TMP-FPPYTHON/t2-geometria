@@ -1,4 +1,4 @@
-# Ejercicios Básicos!
+# Ejercicios de Geometría!
 
 ## Configuración de pruebas con **pytest**
 
@@ -8,8 +8,18 @@
 pip3 install pytest
 ```
 
-- ## 00 Hello World
+- ## 00 Rectangulo
     ### Run command
     ```
-    pytest assignments/00HelloWorld
+    pytest assignments/00Rectangulo
+    ```
+- ## 01 Trapecio
+    ### Run command
+    ```
+    pytest assignments/01Trapecio
+    ```
+- ## 02 Triangulo
+    ### Run command
+    ```
+    pytest assignments/02Triangulo
     ```
