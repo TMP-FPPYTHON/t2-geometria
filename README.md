@@ -1,4 +1,4 @@
-# Ejercicios Básicos!
+# Ejercicios Entrada-Proceso-Salida!
 
 - 00 Rectángulo
 - 01 Trapecio
