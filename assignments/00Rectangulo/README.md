@@ -19,7 +19,12 @@ Agrega una nueva línea abajo del comentario con el código para imprimir `Hello
 La salida del programa debe de ser exactamente de la siguiente forma:
 
 ```
-Hello World!
+AREA DE UN RECTANGULO
+=====================
+Dame la base:15
+Dame la altura:6
+Perimetro=42
+Area=90
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
