@@ -15,7 +15,7 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Agrega una nueva línea abajo del comentario con el código para imprimir `Hello World!` y ejecuta el programa.
 
-La entrada deberá proporcionarse con números enteros.
+Escriba un programa en Python que calcule el **área** de un **Trapecio**. La entrada deberá proporcionarse con números **enteros**.
 
 La salida del programa debe de ser exactamente de la siguiente forma:
 
